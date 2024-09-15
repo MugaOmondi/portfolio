@@ -1,9 +1,11 @@
 # Information Communication Technology Specialist
 
+#### Technical Skills: Php & MySQL, HTML, CSS, Bootstrap, JavaScript, Laravel, React.js
+
 ### Education & Academic Background
-Information Technology, BSc.
-Networking Essentials
-Social Media Management
+Information Technology, BSc. | Jomo Kenyatta Universty of Agriculture and Technology
+Networking Essentials | Netacad Academy
+Social Media Management | Google grow with Africa
 
 ### Work Experience
 National Cereals and Produce Board
