@@ -28,6 +28,23 @@ January 2022 – February 2024
 ### Muuguzi, Staying Healthy, Optimal Personal Health
 [Health Information Sharing Platform](https://www.youtube.com/watch?v=cK8MxciiC00&list=PLLatoQwCH7RBdcOKQJlb_efny7xvy_Pt_)
 
-## Certifications
-### Networking Essentals.
-![Certificate](/assets/img/Networking Essentials.pdf)
+## CISCO Certifications
+- Networking Essentals | Networking Academy
+- Packet Tracer | Networking Academy
+- Internet of Things | Networking Academy
+- Linux Unhatched | Networking Academy
+  
+### Tool Knowledge
+- Programming Languages: Python, SQL, JavaScript, C#
+- Back-End Development: Node.js, Python, PHP, MySQL, API integrations, server-side scripting
+- Data Analysis Tools: Excel, Power BI, Python (pandas, NumPy)
+- Databases: MySQL, PostgreSQL
+- Technologies: XML, XSD, XSLT
+- Development Methodologies: Agile
+- Web Technologies: HTML, CSS, JavaScript (Vanilla, Vue, React, jQuery, TypeScript)
+- Frameworks: ReactJS, Vue.js, Express.js
+- Software/Tools: Microsoft Office Suite, Google Workspace, CRM software, Git, Tableau
+- IT Support & Systems: Hardware troubleshooting, Software installation, Network management
+- Administrative Tools: MS Word, Excel, PowerPoint, Outlook, Scheduling software, Task management tools
+- Soft Skills: Office administration, multitasking, problem-solving, communication, teamwork, attention to detail
+
