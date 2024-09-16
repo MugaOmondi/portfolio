@@ -27,3 +27,7 @@ January 2022 – February 2024
 ## Projects
 ### Muuguzi, Staying Healthy, Optimal Personal Health
 [Health Information Sharing Platform](https://www.youtube.com/watch?v=cK8MxciiC00&list=PLLatoQwCH7RBdcOKQJlb_efny7xvy_Pt_)
+
+## Certifications
+### Networking Essentals.
+![Certificate](/assets/img/Networking Essentials.pdf)
