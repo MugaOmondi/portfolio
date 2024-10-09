@@ -1,6 +1,6 @@
 # Information Communication Technology Specialist
 
-#### Technical Skills: Php & MySQL, HTML, CSS, Bootstrap, JavaScript, Laravel, React.js
+#### Technical Skills: Php & MySQL, HTML, CSS, Bootstrap, JavaScript, Laravel, React.js, API integrations
 
 ### Education & Academic Background
 Information Technology, BSc. | Jomo Kenyatta Universty of Agriculture and Technology
@@ -27,6 +27,8 @@ January 2022 – February 2024
 ## Projects
 ### Muuguzi, Staying Healthy, Optimal Personal Health
 [Health Information Sharing Platform](https://www.youtube.com/watch?v=cK8MxciiC00&list=PLLatoQwCH7RBdcOKQJlb_efny7xvy_Pt_)
+
+### Study space Management system
 
 ## CISCO Certifications
 - Networking Essentals | Networking Academy
