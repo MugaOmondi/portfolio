@@ -29,6 +29,7 @@ January 2022 – February 2024
 [Health Information Sharing Platform](https://www.youtube.com/watch?v=cK8MxciiC00&list=PLLatoQwCH7RBdcOKQJlb_efny7xvy_Pt_)
 
 ### Study space Management system
+[StudyPods management system description](https://mugaomondi.github.io/StudySpace-management-system/)
 
 ## CISCO Certifications
 - Networking Essentals | Networking Academy
