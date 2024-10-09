@@ -26,7 +26,8 @@ January 2022 – February 2024
 
 ## Projects
 ### Muuguzi, Staying Healthy, Optimal Personal Health
-[Health Information Sharing Platform](https://www.youtube.com/watch?v=cK8MxciiC00&list=PLLatoQwCH7RBdcOKQJlb_efny7xvy_Pt_)
+[Health Information Sharing Platform Video](https://www.youtube.com/watch?v=cK8MxciiC00&list=PLLatoQwCH7RBdcOKQJlb_efny7xvy_Pt_)
+[Health information sharing platform picture pages display](https://mugaomondi.github.io/Health_sharing_platform/)
 
 ### Study space Management system
 [StudyPods management system description](https://mugaomondi.github.io/StudySpace-management-system/)
