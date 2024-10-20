@@ -32,6 +32,9 @@ January 2022 – February 2024
 ### Study space Management system
 [StudyPods management system description](https://mugaomondi.github.io/StudySpace-management-system/)
 
+### A quiz app
+[Html, Css AND JavaScript Stack](https://mugaomondi.github.io/Quiz_App/)
+
 ## CISCO Certifications
 - Networking Essentals | Networking Academy
 - Packet Tracer | Networking Academy
